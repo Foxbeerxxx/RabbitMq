@@ -72,7 +72,11 @@ sudo rabbitmqctl start_app
 
 ```
 5. `Как итог нода создалась`
-![9](https://github.com/Foxbeerxxx/RabbitMq/blob/main/img/img9.png)`
+
+![10](https://github.com/Foxbeerxxx/RabbitMq/blob/main/img/img10.png)`
 
 `Принцип работы понятен`
-`Дайте материал с лекции ( файлы для Docker Compose) - Владимир обещал оставить ссылку, хочу попробовать все поднять в докере`
+`Дайте материал с лекции  хочу для себя ( файлы для Docker Compose) - Владимир обещал оставить ссылку, хочу попробовать все поднять в докере`
+`Вот эти`
+
+![11](https://github.com/Foxbeerxxx/RabbitMq/blob/main/img/img11.png)`
