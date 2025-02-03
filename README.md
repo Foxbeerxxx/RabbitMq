@@ -15,10 +15,23 @@ sudo systemctl status rabbitmq-server
 ```
 ![1](https://github.com/Foxbeerxxx/RabbitMq/blob/main/img/img1.png)`
 
-3. `Заполните здесь этапы выполнения, если требуется ....`
-4. `Заполните здесь этапы выполнения, если требуется ....`
-5. `Заполните здесь этапы выполнения, если требуется ....`
-6. 
+3. `Включение плагина управления Management Plugin`
+
+![2](https://github.com/Foxbeerxxx/RabbitMq/blob/main/img/img2.png)`
+
+4. `Перезапускаем сервис`
+5. `И стучимся на localhost`
+```
+http://localhost:15672
+```
+
+6.`Сервис отвечает пробую логиниться под guest`
+![3](https://github.com/Foxbeerxxx/RabbitMq/blob/main/img/img3.png)`
+
+![4](https://github.com/Foxbeerxxx/RabbitMq/blob/main/img/img4.png)`
+
+
+
 
 ```
 Поле для вставки кода...
