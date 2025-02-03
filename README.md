@@ -75,8 +75,9 @@ sudo rabbitmqctl start_app
 
 ![10](https://github.com/Foxbeerxxx/RabbitMq/blob/main/img/img10.png)`
 
-`Принцип работы понятен`
-`Дайте материал с лекции  хочу для себя ( файлы для Docker Compose) - Владимир обещал оставить ссылку, хочу попробовать все поднять в докере`
+6. `Принцип работы понятен`
+
+`Дайте, пожалуйста, материал с лекции  хочу для себя ( файлы для Docker Compose) - Владимир обещал оставить ссылку, хочу попробовать все поднять в докере`
 `Вот эти`
 
 ![11](https://github.com/Foxbeerxxx/RabbitMq/blob/main/img/img11.png)`
