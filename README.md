@@ -25,34 +25,27 @@ sudo systemctl status rabbitmq-server
 http://localhost:15672
 ```
 
-6.`Сервис отвечает пробую логиниться под guest`
+6. `Сервис отвечает пробую логиниться под guest`
 ![3](https://github.com/Foxbeerxxx/RabbitMq/blob/main/img/img3.png)`
 
 ![4](https://github.com/Foxbeerxxx/RabbitMq/blob/main/img/img4.png)`
 
-
-
-
+7. `Чтобы зайти под своим пользователем, добавлю его, добавлю в админы и перезагружу сервис, проверяем`
 ```
-Поле для вставки кода...
-....
-....
-....
-....
+sudo rabbitmqctl add_user alexey Cnews220
+
+sudo rabbitmqctl set_user_tags alexey administrator
+sudo rabbitmqctl set_permissions -p / alexey 
 ```
-
-`При необходимости прикрепитe сюда скриншоты
-
+![5](https://github.com/Foxbeerxxx/RabbitMq/blob/main/img/img5.png)`
 
 
----
+### Задание 2  Отправка и получение сообщений
 
-### Задание 2
+1. `Устанавливаю недостающие компоненты для выполнения скрипта`
+2. `Запускаю producer.ру`
+![6](https://github.com/Foxbeerxxx/RabbitMq/blob/main/img/img6.png)`
 
-`Приведите ответ в свободной форме........`
-
-1. `Заполните здесь этапы выполнения, если требуется ....`
-2. `Заполните здесь этапы выполнения, если требуется ....`
 3. `Заполните здесь этапы выполнения, если требуется ....`
 4. `Заполните здесь этапы выполнения, если требуется ....`
 5. `Заполните здесь этапы выполнения, если требуется ....`
